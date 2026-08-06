@@ -1,6 +1,6 @@
 # Hi, I'm Alice 👋
 
-I've genuinely fallen in love with coding and hope to become really good at it! :)
+I'm someone who's started to learn to code and has genuinely fallen in love with it! I hope to become really good at it! :)
 
 
 Certificates I've received so far! :
