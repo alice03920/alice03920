@@ -9,3 +9,5 @@ Certificates I've received so far! :
 
 
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3bd857e4-6524-4fc7-a237-771ae4e2d1f9.jpeg?v=1786528567)](https://www.boot.dev/certificates/3bd857e4-6524-4fc7-a237-771ae4e2d1f9)
+
+[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0150306a-4794-4232-8274-f42a47574a3a.jpeg?v=1786630468)](https://www.boot.dev/certificates/0150306a-4794-4232-8274-f42a47574a3a)
