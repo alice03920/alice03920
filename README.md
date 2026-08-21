@@ -1,6 +1,6 @@
 # Hey, my name is Alice! :)
 
-I've recently started to learn programming and have gotten so addicted with it! Here, I will be displaying all my awards and work I have completed so far!
+I've recently started to learn programming and have gotten so addicted to it! Here, I will be displaying all my awards and work I have completed so far!
 
 Certificates I've received so far! :
 
