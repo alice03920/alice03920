@@ -2,7 +2,17 @@
 
 I've recently started to learn programming and have gotten so addicted to it! Here, I will be displaying all my awards and work I have completed so far!
 
-Certificates I've received so far! :
+## 🚀 Projects
+
+### 🎮 [Pygame Asteroids](https://github.com/alice03920/pygame-asteroids)
+A classic Asteroids-style game built with Python and Pygame, featuring movement, shooting, collision detection, asteroid destruction and splitting.
+
+### 📚 [BookBot CLI](https://github.com/alice03920/python-bookbot-cli)
+A Python command-line application that analyses books and generates statistics such as word and character counts.
+
+## 🏆 Certificates
+
+Certificates I've received so far:
 
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/34148ae1-2096-4399-b39d-8a1816cb0ef5.jpeg?v=1786010060)](https://www.boot.dev/certificates/34148ae1-2096-4399-b39d-8a1816cb0ef5)
 
