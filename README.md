@@ -24,3 +24,5 @@ Certificates I've received so far:
 [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a5a5e68f-ebf5-4d77-9113-d7f2fb72021e.jpeg?v=1787307374)](https://www.boot.dev/certificates/a5a5e68f-ebf5-4d77-9113-d7f2fb72021e)
 
 [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9fc31784-95d1-4b6a-9b6a-a778ad1286fa.jpeg?v=1787770359)](https://www.boot.dev/certificates/9fc31784-95d1-4b6a-9b6a-a778ad1286fa)
+
+[![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4aee8993-497c-4995-a1c1-e5f2b1751478.jpeg?v=1787912751)](https://www.boot.dev/certificates/4aee8993-497c-4995-a1c1-e5f2b1751478)
