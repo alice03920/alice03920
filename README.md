@@ -15,7 +15,7 @@ A Python command-line application that analyses books and generates statistics s
 
 ## 🏆 Certificates
 
-Certificates I've received so far:
+Certificates I've received so far (8 total) :
 
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/34148ae1-2096-4399-b39d-8a1816cb0ef5.jpeg?v=1786010060)](https://www.boot.dev/certificates/34148ae1-2096-4399-b39d-8a1816cb0ef5)
 
