@@ -4,6 +4,9 @@ I've recently started to learn programming and have gotten so addicted to it! He
 
 ## 🚀 Projects
 
+### 🤖 [AI Coding Agent](https://github.com/alice03920/ai-agent)
+A Python-based AI coding agent that can inspect files, read and modify code, run Python programs and tests, and use an iterative tool-calling loop to complete simple coding tasks autonomously.
+
 ### 🎮 [Pygame Asteroids](https://github.com/alice03920/pygame-asteroids)
 A classic Asteroids-style game built with Python and Pygame, featuring movement, shooting, collision detection, asteroid destruction and splitting.
 
