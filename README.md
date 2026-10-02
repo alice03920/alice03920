@@ -18,7 +18,7 @@ A Python command-line application that analyses books and generates statistics s
 
 ## 🏆 Certificates
 
-Certificates I've received so far (10 total) :
+Certificates I've received so far (11 total) :
 
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/34148ae1-2096-4399-b39d-8a1816cb0ef5.jpeg?v=1786010060)](https://www.boot.dev/certificates/34148ae1-2096-4399-b39d-8a1816cb0ef5)
 
@@ -40,3 +40,5 @@ Certificates I've received so far (10 total) :
 [![Boot.dev Learn Data Structures and Algorithms in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/b299fda6-6ae1-457d-a3f3-04f1dbe35ba0.jpeg?v=1789987311)](https://www.boot.dev/certificates/b299fda6-6ae1-457d-a3f3-04f1dbe35ba0)
 
 [![Boot.dev Build a Static Site Generator in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0e68979f-7ea7-42bf-b16b-23005e2598d7.jpeg?v=1789987142)](https://www.boot.dev/certificates/0e68979f-7ea7-42bf-b16b-23005e2598d7)
+
+[![Boot.dev First Personal Project certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0fd22bea-9a55-4f6e-967d-501c959ce7cb.jpeg?v=1790932477)](https://www.boot.dev/certificates/0fd22bea-9a55-4f6e-967d-501c959ce7cb)
