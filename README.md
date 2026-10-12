@@ -20,6 +20,8 @@ A Python command-line application that analyses books and generates statistics s
 
 Certificates I've received so far (11 total) :
 
+[![Boot.dev Learn JavaScript certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4198981a-80e9-4774-b3f9-bbdfb6b474dc.jpeg?v=1791804390)](https://www.boot.dev/certificates/4198981a-80e9-4774-b3f9-bbdfb6b474dc)
+
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/34148ae1-2096-4399-b39d-8a1816cb0ef5.jpeg?v=1786010060)](https://www.boot.dev/certificates/34148ae1-2096-4399-b39d-8a1816cb0ef5)
 
 
