@@ -44,3 +44,5 @@ Certificates I've received so far (11 total) :
 [![Boot.dev Build a Static Site Generator in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0e68979f-7ea7-42bf-b16b-23005e2598d7.jpeg?v=1789987142)](https://www.boot.dev/certificates/0e68979f-7ea7-42bf-b16b-23005e2598d7)
 
 [![Boot.dev First Personal Project certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0fd22bea-9a55-4f6e-967d-501c959ce7cb.jpeg?v=1790932477)](https://www.boot.dev/certificates/0fd22bea-9a55-4f6e-967d-501c959ce7cb)
+
+[![Boot.dev Learn TypeScript certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/79399cf8-615b-4699-bd7b-a8a024a78dc0.jpeg?v=1792854663)](https://www.boot.dev/certificates/79399cf8-615b-4699-bd7b-a8a024a78dc0)
