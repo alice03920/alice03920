@@ -46,3 +46,5 @@ Certificates I've received so far (11 total) :
 [![Boot.dev First Personal Project certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0fd22bea-9a55-4f6e-967d-501c959ce7cb.jpeg?v=1790932477)](https://www.boot.dev/certificates/0fd22bea-9a55-4f6e-967d-501c959ce7cb)
 
 [![Boot.dev Learn TypeScript certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/79399cf8-615b-4699-bd7b-a8a024a78dc0.jpeg?v=1792854663)](https://www.boot.dev/certificates/79399cf8-615b-4699-bd7b-a8a024a78dc0)
+
+[![Boot.dev Learn HTTP Clients in TypeScript certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/545c661a-84fb-4a3d-84f2-af3be0c65f05.jpeg?v=1793478196)](https://www.boot.dev/certificates/545c661a-84fb-4a3d-84f2-af3be0c65f05)
