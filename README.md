@@ -50,3 +50,5 @@ Certificates I've received so far (11 total) :
 [![Boot.dev Learn HTTP Clients in TypeScript certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/545c661a-84fb-4a3d-84f2-af3be0c65f05.jpeg?v=1793478196)](https://www.boot.dev/certificates/545c661a-84fb-4a3d-84f2-af3be0c65f05)
 
 [![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/eb3e6f68-111e-437c-bb0a-d2cd51cf82e5.jpeg?v=1794406500)](https://www.boot.dev/certificates/eb3e6f68-111e-437c-bb0a-d2cd51cf82e5)
+
+[![Boot.dev Learn HTTP Servers in TypeScript certificate](https://api.boot.dev/v1/static/certificate/c8722b11-5708-45e7-bb9e-dd1b8d54daec)](https://www.boot.dev/certificates/c8722b11-5708-45e7-bb9e-dd1b8d54daec)
