@@ -52,3 +52,5 @@ Certificates I've received so far (11 total) :
 [![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/eb3e6f68-111e-437c-bb0a-d2cd51cf82e5.jpeg?v=1794406500)](https://www.boot.dev/certificates/eb3e6f68-111e-437c-bb0a-d2cd51cf82e5)
 
 [![Boot.dev Learn HTTP Servers in TypeScript certificate](https://api.boot.dev/v1/static/certificate/c8722b11-5708-45e7-bb9e-dd1b8d54daec)](https://www.boot.dev/certificates/c8722b11-5708-45e7-bb9e-dd1b8d54daec)
+
+[![Boot.dev Learn File Servers and CDNs with S3 and CloudFront certificate](https://api.boot.dev/v1/static/certificate/5e4fb7a7-96a1-42e6-a9ac-f3f09c8f56b0)](https://www.boot.dev/certificates/5e4fb7a7-96a1-42e6-a9ac-f3f09c8f56b0)
